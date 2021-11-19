@@ -1,0 +1,38 @@
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.quote-container {
+  width: 45%;
+}
+
+@media (max-width: 599px) {
+  .main-content {
+    height: 90vh;
+  }
+  .quote-container {
+    width: 75%;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 899px) {
+  .main-content {
+    height: 90vh;
+  }
+  .quote-container {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1200px) {
+  .quote-container {
+    width: 55%;
+    margin: 0 auto;
+  }
+}

@@ -1,0 +1,38 @@
+.quote-info-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 27px;
+  margin: 20px 80px;
+}
+
+.author {
+  margin: 0;
+  padding-bottom: 6px;
+  color: #4f4f4f;
+}
+
+.genre {
+  margin: 0;
+  color: #828282;
+  font-size: 0.7rem;
+}
+
+.arrow {
+  display: block;
+  color: #f2f2f2;
+}
+
+@media (max-width: 600px) {
+  .quote-info-container {
+    margin: 0 0 0 10px;
+  }
+
+  .author {
+    font-size: 0.75rem;
+  }
+
+  .genre {
+    font-size: 0.55rem;
+  }
+}

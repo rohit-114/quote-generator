@@ -1,0 +1,51 @@
+.quotelist {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 32px;
+}
+
+.quotelist-container {
+  width: 45%;
+}
+
+.quotelist-author {
+  width: 30%;
+}
+
+.more-btn {
+  display: flex;
+  justify-content: center;
+  margin: 16px;
+}
+
+@media (max-width: 599px) {
+  .quotelist-container {
+    width: 80%;
+  }
+  .quotelist-author {
+    text-align: center;
+    width: 100%;
+    font-size: 1.5rem;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 899px) {
+  .quotelist-container {
+    width: 75%;
+  }
+  .quotelist-author {
+    text-align: center;
+    width: 100%;
+    font-size: 1.9rem;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1200px) {
+  .quotelist-container {
+    width: 75%;
+  }
+  .quotelist-author {
+    width: 55%;
+  }
+}
