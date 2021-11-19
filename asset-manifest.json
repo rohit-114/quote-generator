@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/quote-generator/static/css/main.d7ee1eeb.chunk.css",
+    "main.css": "/quote-generator/static/css/main.de5d5eb3.chunk.css",
     "main.js": "/quote-generator/static/js/main.ebf7da14.chunk.js",
     "main.js.map": "/quote-generator/static/js/main.ebf7da14.chunk.js.map",
     "runtime-main.js": "/quote-generator/static/js/runtime-main.39d0547c.js",
@@ -8,13 +8,13 @@
     "static/js/2.c77f22bd.chunk.js": "/quote-generator/static/js/2.c77f22bd.chunk.js",
     "static/js/2.c77f22bd.chunk.js.map": "/quote-generator/static/js/2.c77f22bd.chunk.js.map",
     "index.html": "/quote-generator/index.html",
-    "static/css/main.d7ee1eeb.chunk.css.map": "/quote-generator/static/css/main.d7ee1eeb.chunk.css.map",
+    "static/css/main.de5d5eb3.chunk.css.map": "/quote-generator/static/css/main.de5d5eb3.chunk.css.map",
     "static/js/2.c77f22bd.chunk.js.LICENSE.txt": "/quote-generator/static/js/2.c77f22bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.39d0547c.js",
     "static/js/2.c77f22bd.chunk.js",
-    "static/css/main.d7ee1eeb.chunk.css",
+    "static/css/main.de5d5eb3.chunk.css",
     "static/js/main.ebf7da14.chunk.js"
   ]
 }
