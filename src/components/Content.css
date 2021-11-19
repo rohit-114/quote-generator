@@ -12,10 +12,10 @@
 
 @media (max-width: 599px) {
   .main-content {
-    height: 90vh;
+    height: 81vh;
   }
   .quote-container {
-    width: 75%;
+    width: 70%;
     margin: 0 auto;
   }
 }
